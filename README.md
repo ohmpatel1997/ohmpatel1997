@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on Go, Python & Google App Engine
+- 🔭 I’m currently working on Go.
 - 🌱 I’m currently learning Elastic Search & GraphQl
 - 👯 I’m looking to collaborate on fun weekend or open source projects
 - 💬 Ask me about programming, theatre and philosophy
