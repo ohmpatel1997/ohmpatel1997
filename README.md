@@ -3,11 +3,12 @@
 
 
 
-- 🔭 I’m currently working on Go.
+- 🔭 I’m currently working on Go and gRPC
 - 🌱 I’m currently learning Elastic Search & GraphQl
 - 👯 I’m looking to collaborate on fun weekend or open source projects
 - 💬 Ask me about programming, theatre and philosophy
 - 📫 How to reach me: ohm.patel1997@gmail.com
+- 🏋 Top Skills: Go, Docker, AWS, gRPC
 - Open Source Contributer @ https://github.com/appbaseio/abc
 <br>
 -----------------------------------------------------------------------------------------------------------------------------------
