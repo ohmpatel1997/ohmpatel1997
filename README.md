@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on Go and gRPC
+- 🔭 I’m currently working on Go, gRPC and Cryptographic Ledger Database(QLDB)
 - 🌱 I’m currently learning Elastic Search & GraphQl
 - 👯 I’m looking to collaborate on fun weekend or open source projects
 - 💬 Ask me about programming, theatre and philosophy
